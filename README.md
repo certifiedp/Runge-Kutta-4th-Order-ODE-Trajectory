@@ -1,2 +1,3 @@
-# astro-198-final-project
-Used Runge–Kutta Differential Equations to Map Trajectories
+# Python Space Trajectory Class 
+
+Python code to illustrate trajectories related to asteroids and space ships using Runge–Kutta Differential Equations
